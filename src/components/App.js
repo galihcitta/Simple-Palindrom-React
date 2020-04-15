@@ -30,7 +30,7 @@ class App extends React.Component {
     }
 
     initialRender = () => {
-        return <h5>Anda Belum Input</h5>
+        return <h5>Anda Belum Input Angka</h5>
     }
 
    
